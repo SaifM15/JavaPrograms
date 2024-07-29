@@ -1,0 +1,10 @@
+package Student;
+
+public class StudentInfo {
+
+	private int studentId;
+	private String studentName;
+	private String studentSurname;
+	private int rollNumber;
+	private int phoneNumber
+}

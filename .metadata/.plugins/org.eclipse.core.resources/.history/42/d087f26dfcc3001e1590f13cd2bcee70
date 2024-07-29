@@ -1,0 +1,19 @@
+package Student;
+
+import java.util.Scanner;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+
+		
+		StudentInfo  s= new StudentInfo();
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter your details");
+		
+		s.getStudentId
+	}
+
+}
